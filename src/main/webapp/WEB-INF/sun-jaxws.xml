@@ -5,10 +5,10 @@
 		implementation="com.ave.Hello"
 		url-pattern="/ws/hello"
 	/>
-	<!--<endpoint 
+	<endpoint 
 		name="EmpleadoService"
 		implementation="com.ave.services.EmpleadoService"
 		url-pattern="/ws/empleadoservice"
-	/>-->
+	/>
 	
 </endpoints>	 
